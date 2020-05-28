@@ -1,2 +1,1 @@
-ruby
 puts "Hello World!"
